@@ -1,2 +1,2 @@
-# final-poject
+# final-project
 Food recipe search application
