@@ -7,7 +7,7 @@ body {
   
   header {
     text-align: center;
-    background-color: #ff6347;
+    background-color: #d747ffe1;
     padding: 20px;
     color: white;
   }
@@ -23,7 +23,7 @@ body {
     padding: 10px 15px;
     font-size: 16px;
     background-color: white;
-    color: #ff6347;
+    color: #d747ffe1;
     border: none;
     cursor: pointer;
   }
